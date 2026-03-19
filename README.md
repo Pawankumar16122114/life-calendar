@@ -1,16 +1,149 @@
-# React + Vite
+![Demo](https://raw.githubusercontent.com/Pawankumar16122114/life-calendar/main/demo.gif)
+<h1 align="center">⏳ Life Calendar</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  Visualize your life in weeks. Stay aware. Stay intentional.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Pawankumar16122114/life-calendar?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Pawankumar16122114/life-calendar?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Pawankumar16122114/life-calendar?style=for-the-badge" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 https://your-live-demo-link.com
+*(Deploy on GitHub Pages for maximum impact)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 About the Project
+
+Life Calendar is a **visual productivity tool** that represents your entire life in weeks.
+
+Each square = 1 week.
+
+This simple idea helps you:
+
+* Understand how limited time really is
+* Stay focused on meaningful goals
+* Build urgency and discipline
+
+---
+
+## 🧠 Why This Project Matters
+
+Most people think they have “a lot of time”.
+
+This project changes that perception by:
+
+* Making time **visible**
+* Turning abstract life into **real data**
+* Encouraging **intentional living**
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./life-calendar-desktop.png" width="80%" />
+</p>
+
+---
+
+## ⚡ Features
+
+✨ Life represented in weeks
+📅 Automatic age calculation
+🎯 Minimal and distraction-free UI
+📱 Responsive design
+🧠 Psychological awareness boost
+
+---
+
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+life-calendar/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── life-calendar-desktop.png
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Pawankumar16122114/life-calendar.git
+cd life-calendar
+```
+
+Open in browser:
+
+```bash
+index.html
+```
+
+---
+
+
+## 🌍 Future Improvements
+
+* Add yearly milestones
+* Add goal tracking
+* Dark mode 🌙
+* Mobile app version
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+2. Create your branch
+3. Commit changes
+4. Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Pawankumar**
+
+* GitHub: https://github.com/Pawankumar16122114
+* LinkedIn: *(add your link here)*
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+👉 Give it a ⭐ on GitHub
+👉 Share with your friends
+
+---
+
+<p align="center">
+  Made with ❤️ by Pawankumar
+</p>
